@@ -1,12 +1,10 @@
 # Hi there, I'm Alya 👋
-Chack out my [Medium](https://medium.com/@alya.saad), substack, and youtube!
+Check out my [Medium](https://medium.com/@alya.saad) and [Personal Website](https://happy-eustoma-cf6.notion.site/Hi-I-m-Alya-Saad-13c5cad5f06d8017b666ca19bddda92e?pvs=74)!
 
 ## About Me
 
 - 🌟 Passionate Software Developer and Open Source Contributor
-- 💼 Currently working as a [Your Job Title] at [Your Company]
-- 🎓 Graduated with a degree in [Your Degree] from [Your University]
-- 🌍 Based in Toronto
+- 💼 Currently a student in Toronto
 
 ## Connect with Me
 
